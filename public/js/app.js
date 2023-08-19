@@ -29664,7 +29664,7 @@
 
           socket.on("orderPlaced", function(order) {
             new noty__WEBPACK_IMPORTED_MODULE_2___default.a({
-              type: "success",
+              type: "error",
               timeout: 1000,
               text: "New order!",
               progressBar: false,
@@ -29711,7 +29711,7 @@
             .post("/orders", formObject)
             .then(function(res) {
               new noty__WEBPACK_IMPORTED_MODULE_1___default.a({
-                type: "success",
+                type: "error",
                 timeout: 1000,
                 text: res.data.message,
                 progressBar: false,
@@ -29722,7 +29722,7 @@
             })
             ["catch"](function(err) {
               new noty__WEBPACK_IMPORTED_MODULE_1___default.a({
-                type: "success",
+                type: "error",
                 timeout: 1000,
                 text: err.res.data.message,
                 progressBar: false,
@@ -29826,7 +29826,7 @@
             .then(function(res) {
               cartCounter.innerText = res.data.totalQty;
               new noty__WEBPACK_IMPORTED_MODULE_1___default.a({
-                type: "success",
+                type: "error",
                 timeout: 1000,
                 text: "Item added to cart",
                 progressBar: false,
@@ -29913,7 +29913,7 @@
           updatedOrder.status = data.status;
           updateStatus(updatedOrder);
           new noty__WEBPACK_IMPORTED_MODULE_1___default.a({
-            type: "success",
+            type: "error",
             timeout: 1000,
             text: "Order updated",
             progressBar: false,

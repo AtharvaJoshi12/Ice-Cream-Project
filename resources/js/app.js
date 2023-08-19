@@ -13,9 +13,10 @@ function updateCart(icecream) {
     .then((res) => {
       cartCounter.innerText = res.data.totalQty;
       new Noty({
-        type: "success",
+        type: "error",
         timeout: 1000,
-        text: "Item added to cart",
+        theme: "relax",
+        text: "Item added ed to cart",
         progressBar: false,
       }).show();
     })
@@ -96,7 +97,7 @@ socket.on("orderUpdated", (data) => {
   updatedOrder.status = data.status;
   updateStatus(updatedOrder);
   new Noty({
-    type: "success",
+    type: "error",
     timeout: 1000,
     text: "Order updated",
     progressBar: false,

@@ -28,13 +28,11 @@ The Online Ice-Cream Parlour App is a web application designed to provide users 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/ice-cream-parlour-app.git`
-2. Navigate to the project directory: `cd ice-cream-parlour-app`
+1. Clone the repository: `git clone https://github.com/your-username/Ice-Cream-Project.git`
+2. Navigate to the project directory: `cd Ice-Cream-Project`
 3. Install dependencies: `npm install`
-4. Configure the database connection in `config.js`.
-5. Run database migrations: `npm run migrate`
-6. Start the server: `npm start`
-7. Access the app in your browser at `http://localhost:3000`
+4. Start the server: `npm start`
+5. Access the app in your browser at `http://localhost:3000`
 
 ## Usage
 
@@ -54,15 +52,5 @@ We welcome contributions from the community to enhance the Online Ice-Cream Parl
 3. Make your changes and commit them with descriptive messages: `git commit -am 'Add feature'`
 4. Push your changes to your branch: `git push origin feature-name`
 5. Submit a pull request, detailing your changes and improvements.
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) while contributing.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-For any issues, questions, or feedback, please contact us at icecream@example.com.
 
 Thank you for using the Online Ice-Cream Parlour App! Enjoy your sweet treats! 🍦🍨
