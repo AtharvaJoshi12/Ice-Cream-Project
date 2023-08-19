@@ -20,7 +20,7 @@ function orderController() {
         .save()
         .then((result) => {
           Order.populate(result, { path: "customerId" }, (err, placedOrder) => {
-            // req.flash('success', 'Order placed successfully')
+            req.flash("success", "Order placed successfully");
 
             // Stripe payment
             if (paymentType === "card") {
@@ -29,7 +29,7 @@ function orderController() {
                   amount: req.session.cart.totalPrice * 100,
                   source: stripeToken,
                   currency: "inr",
-                  description: `Pizza order: ${placedOrder._id}`,
+                  description: `icecream order: ${placedOrder._id}`,
                 })
                 .then(() => {
                   placedOrder.paymentStatus = true;
