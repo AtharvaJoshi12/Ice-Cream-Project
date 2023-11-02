@@ -5,7 +5,7 @@ The Online Ice-Cream Parlour App is a web application designed to provide users 
 ## Table of Contents
 
 - [Features](#features)
-- [User Interface](#UserInterface)
+- [User Interface](#user-interface-of-app)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
