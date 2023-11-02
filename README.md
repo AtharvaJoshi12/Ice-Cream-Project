@@ -42,6 +42,12 @@ Mobile Application 👇
 |------------|------------|
 | ![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/5928beeb-e761-4e6e-ac60-7a591c0762ab)| ![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/042d53a2-b90c-4310-909f-0f347d4ff311)|
 
+|Cart Window | Order Status |
+|------------|------------|
+| ![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/8b107721-1419-4875-9819-5535c4ad3aa2)| ![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/c033f543-d0db-4cf4-a1d2-17ab777f5942)
+|
+
+
 
 <hr>
 <br>
