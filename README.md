@@ -33,6 +33,11 @@ Desktop Application 👇
 ![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/32833edd-a4a6-4949-8511-00f3dd148ee8)
 
 
+Mobile Application 👇
+
+![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/85707035-aa01-4f7e-97ba-8df54dec80cc)
+
+
 <hr>
 <br>
 
