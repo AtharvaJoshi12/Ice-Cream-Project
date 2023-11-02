@@ -43,6 +43,11 @@ The Online Ice-Cream Parlour App is a web application designed to provide users 
 5. Enter payment information and confirm your order.
 6. Track the status of your order in your profile's order history.
 
+## Sample
+![Screenshot 2023-05-18 182331](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/db1a6b95-cb18-4e96-9838-ae07a68dd075)
+<hr>
+![Screenshot 2023-05-18 182507](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/94e69c9b-cd85-400c-b0ff-4dbe497f15d9)
+
 ## Contributing
 
 We welcome contributions from the community to enhance the Online Ice-Cream Parlour App. To contribute:
