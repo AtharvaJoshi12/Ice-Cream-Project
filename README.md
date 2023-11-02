@@ -28,8 +28,10 @@ The Online Ice-Cream Parlour App is a web application designed to provide users 
 
 ## User Interface of App
 ![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/7c7561bf-3266-4a20-a251-9f6e3af8c5f7)
-![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/b266fd87-fe4f-40e5-9bbd-666f155880a0)
+![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/32833edd-a4a6-4949-8511-00f3dd148ee8)
 
+<hr>
+<br>
 
 ## Installation
 
