@@ -5,6 +5,7 @@ The Online Ice-Cream Parlour App is a web application designed to provide users 
 ## Table of Contents
 
 - [Features](#features)
+- [User Interface](#UserInterface)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -38,7 +39,7 @@ Mobile Application 👇
 ![image](https://github.com/AtharvaJoshi12/Online-Ice-Cream-Parlour-App/assets/92630905/85707035-aa01-4f7e-97ba-8df54dec80cc)
 
 
-# Detailed UI
+### Detailed UI
 
 |Login Window | Customer Orders |
 |------------|------------|
